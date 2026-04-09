@@ -92,7 +92,9 @@ namespace Barin_DeStefano_Weather
                     DateTime.Now
                 );
 
+                //aggiorna i due grafici
                 AggiornaGrafico(meteo.hourly.temperature_2m);
+                AggiornaGraficoAria(aria.hourly.european_aqi);
             }
 
             
@@ -104,12 +106,7 @@ namespace Barin_DeStefano_Weather
         private async void button1_Click(object sender, EventArgs e)
         {
 
-            Citta selectedcity = (Citta)CityList.SelectedItem;/*
-            DatiMeteo dati = await GetMeteoData(selectedcity);
-
-            progressBarTemp.Value = (int)dati.Temperatura;
-            lbl_City.Text = dati.NomeCitta;
-            lbl_Temperature.Text = $"{(float)Math.Round(dati.Temperatura, 1)} °C";*/
+            Citta selectedcity = (Citta)CityList.SelectedItem;
             Refreshpage(selectedcity);
         }
 
@@ -124,7 +121,6 @@ namespace Barin_DeStefano_Weather
 
         private void AggiornaGrafico(float[] datiRaw)
         {
-            if (datiRaw == null || datiRaw.Length == 0) return;
 
             // toglei eventuali punti vecchi 
             Chart_Temperature.Plot.Clear();
@@ -138,7 +134,7 @@ namespace Barin_DeStefano_Weather
             sig.LineWidth = 2;
             sig.MarkerSize = 5;
 
-            // impostiamo una scala costante perché con lauto cambia sempre
+            // impostiamo una scala costante perché se usassimo l'automatica cambia sempre
             Chart_Temperature.Plot.Axes.SetLimits(0, valoriY.Length, -10, 45);
 
             // scriviamo cosa è
@@ -150,6 +146,29 @@ namespace Barin_DeStefano_Weather
             Chart_Temperature.Refresh();
         }
 
+        private void AggiornaGraficoAria(int?[] datiRaw)
+        {
+            //il regionamento è lo stesso di prima ma aggiungiamo il controllo nel caso fosse null
+            Chart_AirQuality.Plot.Clear();
+
+            double[] valoriY = datiRaw.Select(v => v.HasValue ? (double)v.Value : 0.0).ToArray();//conversione da int a double se null assegna 0
+
+            // Aggiunge il segnale con un altro colore 
+            var sig = Chart_AirQuality.Plot.Add.Signal(valoriY);
+            sig.Color = ScottPlot.Color.FromHex("#2ECC71"); 
+            sig.LineWidth = 2;
+            sig.MarkerSize = 5;
+
+            // Imposta i limiti degli assi
+            Chart_AirQuality.Plot.Axes.SetLimits(0, valoriY.Length, 0, 100);
+
+            // tipi di valori
+            Chart_AirQuality.Plot.Title("Qualità dell'Aria (AQI)");
+            Chart_AirQuality.Plot.XLabel("Ore");
+            Chart_AirQuality.Plot.YLabel("Indice AQI");
+
+            Chart_AirQuality.Refresh();
+        }
 
         private void lbl_Temperature_Click(object sender, EventArgs e)
         {
