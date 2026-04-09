@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Barin_DeStefano_Weather/1.0.0": {
+        "runtime": {
+          "Barin_DeStefano_Weather.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Barin_DeStefano_Weather/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

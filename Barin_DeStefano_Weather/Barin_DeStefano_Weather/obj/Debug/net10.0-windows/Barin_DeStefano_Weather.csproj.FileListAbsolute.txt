@@ -1,0 +1,17 @@
+C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\Barin_DeStefano_Weather.exe
+C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\Barin_DeStefano_Weather.deps.json
+C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\Barin_DeStefano_Weather.runtimeconfig.json
+C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\Barin_DeStefano_Weather.dll
+C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\Barin_DeStefano_Weather.pdb
+C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.Form1.resources
+C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.csproj.GenerateResource.cache
+C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.AssemblyInfoInputs.cache
+C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.AssemblyInfo.cs
+C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.csproj.CoreCompileInputs.cache
+C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.sourcelink.json
+C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.dll
+C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\refint\Barin_DeStefano_Weather.dll
+C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.pdb
+C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.genruntimeconfig.cache
+C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\ref\Barin_DeStefano_Weather.dll
