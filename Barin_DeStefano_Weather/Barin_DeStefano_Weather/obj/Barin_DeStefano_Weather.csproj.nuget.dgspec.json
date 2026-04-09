@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\12999355\\Desktop\\xx\\Barin_DeStefano_Progettto_Meteo\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj": {}
+    "C:\\Users\\Utente Pc\\Desktop\\FRANCESCO\\Barin_DeStefano_Progettto_Meteo\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj": {}
   },
   "projects": {
-    "C:\\Users\\12999355\\Desktop\\xx\\Barin_DeStefano_Progettto_Meteo\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj": {
+    "C:\\Users\\Utente Pc\\Desktop\\FRANCESCO\\Barin_DeStefano_Progettto_Meteo\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\12999355\\Desktop\\xx\\Barin_DeStefano_Progettto_Meteo\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj",
+        "projectUniqueName": "C:\\Users\\Utente Pc\\Desktop\\FRANCESCO\\Barin_DeStefano_Progettto_Meteo\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj",
         "projectName": "Barin_DeStefano_Weather",
-        "projectPath": "C:\\Users\\12999355\\Desktop\\xx\\Barin_DeStefano_Progettto_Meteo\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj",
-        "packagesPath": "C:\\Users\\12999355\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\12999355\\Desktop\\xx\\Barin_DeStefano_Progettto_Meteo\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather\\obj\\",
+        "projectPath": "C:\\Users\\Utente Pc\\Desktop\\FRANCESCO\\Barin_DeStefano_Progettto_Meteo\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj",
+        "packagesPath": "C:\\Users\\Utente Pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Utente Pc\\Desktop\\FRANCESCO\\Barin_DeStefano_Progettto_Meteo\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\12999355\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Utente Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,6 +45,20 @@
       "frameworks": {
         "net10.0-windows7.0": {
           "targetAlias": "net10.0-windows",
+          "dependencies": {
+            "PanoramicData.System.Windows.Forms.DataVisualization": {
+              "target": "Package",
+              "version": "[1.0.7, )"
+            },
+            "ScottPlot.WinForms": {
+              "target": "Package",
+              "version": "[5.1.58, )"
+            },
+            "WinForms.DataVisualization": {
+              "target": "Package",
+              "version": "[1.10.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

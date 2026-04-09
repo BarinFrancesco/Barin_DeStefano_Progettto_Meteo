@@ -4,20 +4,21 @@ using System.Text;
 
 namespace Barin_DeStefano_Weather
 {
-    public class Root
+
+    public class MeteoResponse
     {
-        public Main main { get; set; }
-        public List<Weather> weather { get; set; }
-        public string name { get; set; }
+        public Hourly hourly { get; set; }
     }
 
-    public class Main
+    public class Hourly 
     {
-        public double temp { get; set; }
+        public string[] time { get; set; }
+        public float[] temperature_2m { get; set; }
+        public float[] relativehumidity_2m { get; set; }
+        public float[] pressure_msl { get; set; }
+        public float?[] pm2_5 { get; set; }
+        public int?[] european_aqi { get; set; }
     }
 
-    public class Weather
-    {
-        public string description { get; set; }
-    }
+   
 }

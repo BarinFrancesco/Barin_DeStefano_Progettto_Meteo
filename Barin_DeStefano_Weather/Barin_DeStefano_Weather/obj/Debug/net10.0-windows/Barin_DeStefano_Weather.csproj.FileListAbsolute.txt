@@ -15,3 +15,143 @@ C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Wea
 C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.pdb
 C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.genruntimeconfig.cache
 C:\Users\12999355\Desktop\xx\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\ref\Barin_DeStefano_Weather.dll
+C:\Users\posta\Desktop\franci\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\Barin_DeStefano_Weather.exe
+C:\Users\posta\Desktop\franci\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\Barin_DeStefano_Weather.deps.json
+C:\Users\posta\Desktop\franci\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\Barin_DeStefano_Weather.runtimeconfig.json
+C:\Users\posta\Desktop\franci\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\Barin_DeStefano_Weather.dll
+C:\Users\posta\Desktop\franci\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\Barin_DeStefano_Weather.pdb
+C:\Users\posta\Desktop\franci\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.Form1.resources
+C:\Users\posta\Desktop\franci\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.csproj.GenerateResource.cache
+C:\Users\posta\Desktop\franci\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\posta\Desktop\franci\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.AssemblyInfoInputs.cache
+C:\Users\posta\Desktop\franci\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.AssemblyInfo.cs
+C:\Users\posta\Desktop\franci\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.csproj.CoreCompileInputs.cache
+C:\Users\posta\Desktop\franci\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.sourcelink.json
+C:\Users\posta\Desktop\franci\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.dll
+C:\Users\posta\Desktop\franci\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\refint\Barin_DeStefano_Weather.dll
+C:\Users\posta\Desktop\franci\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.pdb
+C:\Users\posta\Desktop\franci\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.genruntimeconfig.cache
+C:\Users\posta\Desktop\franci\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\ref\Barin_DeStefano_Weather.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\Barin_DeStefano_Weather.exe
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\Barin_DeStefano_Weather.deps.json
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\Barin_DeStefano_Weather.runtimeconfig.json
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\Barin_DeStefano_Weather.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\Barin_DeStefano_Weather.pdb
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\WinForms.DataVisualization.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.csproj.AssemblyReference.cache
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.Form1.resources
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.Properties.Resources.resources
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.csproj.GenerateResource.cache
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.AssemblyInfoInputs.cache
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.AssemblyInfo.cs
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.csproj.CoreCompileInputs.cache
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_De.0CEB6148.Up2Date
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\refint\Barin_DeStefano_Weather.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.pdb
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.genruntimeconfig.cache
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\ref\Barin_DeStefano_Weather.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\HarfBuzzSharp.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\OpenTK.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\OpenTK.GLControl.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\ScottPlot.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\ScottPlot.WinForms.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\SkiaSharp.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\SkiaSharp.Views.WindowsForms.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-loongarch64\native\libSkiaSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libSkiaSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libSkiaSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-musl-loongarch64\native\libSkiaSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libSkiaSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libSkiaSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libSkiaSharp.so
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Utente Pc\Downloads\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.csproj.AssemblyReference.cache
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.Form1.resources
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.csproj.GenerateResource.cache
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.AssemblyInfoInputs.cache
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.AssemblyInfo.cs
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.csproj.CoreCompileInputs.cache
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.sourcelink.json
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\refint\Barin_DeStefano_Weather.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.pdb
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\Barin_DeStefano_Weather.exe
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\Barin_DeStefano_Weather.deps.json
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\Barin_DeStefano_Weather.runtimeconfig.json
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\Barin_DeStefano_Weather.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\Barin_DeStefano_Weather.pdb
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\HarfBuzzSharp.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\OpenTK.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\OpenTK.GLControl.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\ScottPlot.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\ScottPlot.WinForms.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\SkiaSharp.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\SkiaSharp.Views.WindowsForms.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\WinForms.DataVisualization.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-musl-loongarch64\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libHarfBuzzSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-loongarch64\native\libSkiaSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libSkiaSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libSkiaSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-musl-loongarch64\native\libSkiaSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libSkiaSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libSkiaSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libSkiaSharp.so
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\bin\Debug\net10.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_De.0CEB6148.Up2Date
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.genruntimeconfig.cache
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\ref\Barin_DeStefano_Weather.dll
+C:\Users\Utente Pc\Desktop\FRANCESCO\Barin_DeStefano_Progettto_Meteo\Barin_DeStefano_Weather\Barin_DeStefano_Weather\obj\Debug\net10.0-windows\Barin_DeStefano_Weather.Properties.Resources.resources
