@@ -126,28 +126,27 @@ namespace Barin_DeStefano_Weather
         {
             if (datiRaw == null || datiRaw.Length == 0) return;
 
-            // 1. Pulizia totale
+            // toglei eventuali punti vecchi 
             Chart_Temperature.Plot.Clear();
 
-            // 2. Conversione (abbiamo già verificato che i dati sono variegati)
+            // trasforma da float a double perché sennò non va
             double[] valoriY = datiRaw.Select(v => (double)v).ToArray();
 
-            // 3. USA SIGNAL: è fatto apposta per dati in sequenza (come le ore)
-            // Questo evita conflitti con l'asse X
+            // "disegnamo " i punti e gli diamo determinato valori di spessore  
             var sig = Chart_Temperature.Plot.Add.Signal(valoriY);
             sig.Color = ScottPlot.Color.FromHex("#FF5733");
             sig.LineWidth = 2;
             sig.MarkerSize = 5;
 
-            // 4. RESET MANUALE DEGLI ASSI (La parte critica)
-            // Usiamo SetLimits invece di SetLimitsY per bloccare l'intera "telecamera"
-            // Parametri: Left, Right, Bottom, Top
+            // impostiamo una scala costante perché con lauto cambia sempre
             Chart_Temperature.Plot.Axes.SetLimits(0, valoriY.Length, -10, 45);
 
-            // 5. TITOLI
+            // scriviamo cosa è
             Chart_Temperature.Plot.Title("Andamento Temperatura");
+            Chart_Temperature.Plot.XLabel("Ore");
+            Chart_Temperature.Plot.YLabel("Temp(°C)");
 
-            // 6. REFRESH FORZATO
+            // rinfreschiamo il grafico
             Chart_Temperature.Refresh();
         }
 

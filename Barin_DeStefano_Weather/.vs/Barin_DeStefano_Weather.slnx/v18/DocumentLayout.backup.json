@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Utente Pc\\Desktop\\FRANCESCO\\Barin_DeStefano_Progettto_Meteo\\Barin_DeStefano_Weather\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0EBBD9C5-F1FE-33A1-AC06-2664F7C92BBA}|Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj|C:\\Users\\Utente Pc\\Desktop\\FRANCESCO\\Barin_DeStefano_Progettto_Meteo\\Barin_DeStefano_Weather\\barin_destefano_weather\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0EBBD9C5-F1FE-33A1-AC06-2664F7C92BBA}|Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj|solutionrelative:barin_destefano_weather\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EBBD9C5-F1FE-33A1-AC06-2664F7C92BBA}|Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj|c:\\users\\utente pc\\desktop\\francesco\\barin_destefano_progettto_meteo\\barin_destefano_weather\\barin_destefano_weather\\meteo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EBBD9C5-F1FE-33A1-AC06-2664F7C92BBA}|Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj|solutionrelative:barin_destefano_weather\\meteo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0EBBD9C5-F1FE-33A1-AC06-2664F7C92BBA}|Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj|c:\\users\\utente pc\\desktop\\francesco\\barin_destefano_progettto_meteo\\barin_destefano_weather\\barin_destefano_weather\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EBBD9C5-F1FE-33A1-AC06-2664F7C92BBA}|Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj|solutionrelative:barin_destefano_weather\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +19,12 @@
       "RelativeMoniker": "D:0:0:{0EBBD9C5-F1FE-33A1-AC06-2664F7C92BBA}|Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj|solutionrelative:barin_destefano_weather\\citta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EBBD9C5-F1FE-33A1-AC06-2664F7C92BBA}|Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj|c:\\users\\utente pc\\desktop\\francesco\\barin_destefano_progettto_meteo\\barin_destefano_weather\\barin_destefano_weather\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0EBBD9C5-F1FE-33A1-AC06-2664F7C92BBA}|Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj|solutionrelative:barin_destefano_weather\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0EBBD9C5-F1FE-33A1-AC06-2664F7C92BBA}|Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj|c:\\users\\utente pc\\desktop\\francesco\\barin_destefano_progettto_meteo\\barin_destefano_weather\\barin_destefano_weather\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EBBD9C5-F1FE-33A1-AC06-2664F7C92BBA}|Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj|solutionrelative:barin_destefano_weather\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0EBBD9C5-F1FE-33A1-AC06-2664F7C92BBA}|Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj|c:\\users\\utente pc\\desktop\\francesco\\barin_destefano_progettto_meteo\\barin_destefano_weather\\barin_destefano_weather\\classi_lettura_json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EBBD9C5-F1FE-33A1-AC06-2664F7C92BBA}|Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj|solutionrelative:barin_destefano_weather\\classi_lettura_json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0EBBD9C5-F1FE-33A1-AC06-2664F7C92BBA}|Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj|c:\\users\\utente pc\\desktop\\francesco\\barin_destefano_progettto_meteo\\barin_destefano_weather\\barin_destefano_weather\\meteo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0EBBD9C5-F1FE-33A1-AC06-2664F7C92BBA}|Barin_DeStefano_Weather\\Barin_DeStefano_Weather.csproj|solutionrelative:barin_destefano_weather\\meteo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Utente Pc\\Desktop\\FRANCESCO\\Barin_DeStefano_Progettto_Meteo\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Barin_DeStefano_Weather\\Form1.Designer.cs",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Citta.cs",
               "DocumentMoniker": "C:\\Users\\Utente Pc\\Desktop\\FRANCESCO\\Barin_DeStefano_Progettto_Meteo\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather\\Citta.cs",
               "RelativeDocumentMoniker": "Barin_DeStefano_Weather\\Citta.cs",
@@ -59,12 +59,11 @@
               "RelativeToolTip": "Barin_DeStefano_Weather\\Citta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T20:31:25.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T20:31:25.388Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Classi_lettura_Json.cs",
               "DocumentMoniker": "C:\\Users\\Utente Pc\\Desktop\\FRANCESCO\\Barin_DeStefano_Progettto_Meteo\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather\\Classi_lettura_Json.cs",
               "RelativeDocumentMoniker": "Barin_DeStefano_Weather\\Classi_lettura_Json.cs",
@@ -76,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Meteo.cs",
               "DocumentMoniker": "C:\\Users\\Utente Pc\\Desktop\\FRANCESCO\\Barin_DeStefano_Progettto_Meteo\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather\\Meteo.cs",
               "RelativeDocumentMoniker": "Barin_DeStefano_Weather\\Meteo.cs",
@@ -84,24 +83,25 @@
               "RelativeToolTip": "Barin_DeStefano_Weather\\Meteo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T19:25:10.662Z"
+              "WhenOpened": "2026-04-09T19:25:10.662Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Utente Pc\\Desktop\\FRANCESCO\\Barin_DeStefano_Progettto_Meteo\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather\\Form1.cs",
               "RelativeDocumentMoniker": "Barin_DeStefano_Weather\\Form1.cs",
               "ToolTip": "C:\\Users\\Utente Pc\\Desktop\\FRANCESCO\\Barin_DeStefano_Progettto_Meteo\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather\\Form1.cs",
               "RelativeToolTip": "Barin_DeStefano_Weather\\Form1.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBQAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAgwJQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-09T19:17:14.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Progettazione]",
               "DocumentMoniker": "C:\\Users\\Utente Pc\\Desktop\\FRANCESCO\\Barin_DeStefano_Progettto_Meteo\\Barin_DeStefano_Weather\\Barin_DeStefano_Weather\\Form1.cs",
               "RelativeDocumentMoniker": "Barin_DeStefano_Weather\\Form1.cs",

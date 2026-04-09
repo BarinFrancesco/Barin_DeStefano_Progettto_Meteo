@@ -62,9 +62,9 @@
             // Chart_Temperature
             // 
             Chart_Temperature.BackColor = Color.Transparent;
-            Chart_Temperature.Location = new Point(343, 233);
+            Chart_Temperature.Location = new Point(329, 233);
             Chart_Temperature.Name = "Chart_Temperature";
-            Chart_Temperature.Size = new Size(220, 98);
+            Chart_Temperature.Size = new Size(238, 98);
             Chart_Temperature.TabIndex = 5;
             // 
             // progressBarTemp
@@ -105,9 +105,9 @@
             // Chart_AirQuality
             // 
             Chart_AirQuality.BackColor = Color.Transparent;
-            Chart_AirQuality.Location = new Point(343, 414);
+            Chart_AirQuality.Location = new Point(329, 414);
             Chart_AirQuality.Name = "Chart_AirQuality";
-            Chart_AirQuality.Size = new Size(220, 98);
+            Chart_AirQuality.Size = new Size(238, 98);
             Chart_AirQuality.TabIndex = 6;
             // 
             // Form1
