@@ -42,7 +42,7 @@
             CityList.CausesValidation = false;
             CityList.DropDownStyle = ComboBoxStyle.DropDownList;
             CityList.FormattingEnabled = true;
-            CityList.Location = new Point(703, 25);
+            CityList.Location = new Point(543, 16);
             CityList.Margin = new Padding(3, 4, 3, 4);
             CityList.Name = "CityList";
             CityList.Size = new Size(140, 28);
@@ -50,7 +50,7 @@
             // 
             // button1
             // 
-            button1.Location = new Point(703, 61);
+            button1.Location = new Point(543, 52);
             button1.Margin = new Padding(3, 4, 3, 4);
             button1.Name = "button1";
             button1.Size = new Size(140, 28);
@@ -62,14 +62,14 @@
             // Chart_Temperature
             // 
             Chart_Temperature.BackColor = Color.Transparent;
-            Chart_Temperature.Location = new Point(329, 233);
+            Chart_Temperature.Location = new Point(169, 224);
             Chart_Temperature.Name = "Chart_Temperature";
             Chart_Temperature.Size = new Size(238, 98);
             Chart_Temperature.TabIndex = 5;
             // 
             // progressBarTemp
             // 
-            progressBarTemp.Location = new Point(343, 191);
+            progressBarTemp.Location = new Point(183, 182);
             progressBarTemp.MarqueeAnimationSpeed = 1;
             progressBarTemp.Maximum = 50;
             progressBarTemp.Name = "progressBarTemp";
@@ -81,31 +81,29 @@
             lbl_Temperature.BackColor = Color.Transparent;
             lbl_Temperature.Font = new Font("Microsoft Sans Serif", 19.8000011F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lbl_Temperature.ForeColor = Color.WhiteSmoke;
-            lbl_Temperature.Location = new Point(293, 34);
+            lbl_Temperature.Location = new Point(133, 25);
             lbl_Temperature.Name = "lbl_Temperature";
             lbl_Temperature.Size = new Size(308, 77);
             lbl_Temperature.TabIndex = 4;
             lbl_Temperature.Text = "xx";
             lbl_Temperature.TextAlign = ContentAlignment.MiddleCenter;
-            lbl_Temperature.Click += lbl_Temperature_Click;
             // 
             // lbl_City
             // 
             lbl_City.BackColor = Color.Transparent;
             lbl_City.Font = new Font("Microsoft Sans Serif", 7.8F);
             lbl_City.ForeColor = Color.WhiteSmoke;
-            lbl_City.Location = new Point(293, 96);
+            lbl_City.Location = new Point(133, 87);
             lbl_City.Name = "lbl_City";
             lbl_City.Size = new Size(308, 25);
             lbl_City.TabIndex = 3;
             lbl_City.Text = "xx";
             lbl_City.TextAlign = ContentAlignment.MiddleCenter;
-            lbl_City.Click += lbl_City_Click;
             // 
             // Chart_AirQuality
             // 
             Chart_AirQuality.BackColor = Color.Transparent;
-            Chart_AirQuality.Location = new Point(329, 414);
+            Chart_AirQuality.Location = new Point(169, 405);
             Chart_AirQuality.Name = "Chart_AirQuality";
             Chart_AirQuality.Size = new Size(238, 98);
             Chart_AirQuality.TabIndex = 6;
@@ -116,7 +114,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = Properties.Resources.cloud_background_ticebm8qasr73gt1;
             BackgroundImageLayout = ImageLayout.Stretch;
-            ClientSize = new Size(914, 600);
+            ClientSize = new Size(809, 600);
             Controls.Add(Chart_AirQuality);
             Controls.Add(lbl_City);
             Controls.Add(Chart_Temperature);
@@ -127,7 +125,6 @@
             Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "Form1";
-            Load += Form1_Load;
             ResumeLayout(false);
         }
 

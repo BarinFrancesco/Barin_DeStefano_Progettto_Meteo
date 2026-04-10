@@ -1,5 +1,6 @@
 using Microsoft.VisualBasic.Logging;
 using ScottPlot;
+using ScottPlot.Plottables;
 using System;
 using System.Data;
 using System.Diagnostics.Metrics;
@@ -18,7 +19,7 @@ namespace Barin_DeStefano_Weather
         public Form1()
         {
             InitializeComponent();
-            CityList.DisplayMember = "Nome";
+            CityList.DisplayMember = "Nome";//campo da mostrare
             CityList.DataSource = ListaCittà;
             progressBarTemp.Minimum = 0;
             progressBarTemp.Maximum = 45;
@@ -29,37 +30,32 @@ namespace Barin_DeStefano_Weather
 
         List<Citta> ListaCittà = new List<Citta>
         {
-            new Citta { Nome = "New York", Lat = 40.7128, Lon = -74.0060 },
-            new Citta { Nome = "Londra", Lat = 51.5074, Lon = -0.1278 },
-            new Citta { Nome = "Parigi", Lat = 48.8566, Lon = 2.3522 },
-            new Citta { Nome = "Tokyo", Lat = 35.6895, Lon = 139.6917 },
-            new Citta { Nome = "Pechino", Lat = 39.9042, Lon = 116.4074 },
-            new Citta { Nome = "Shanghai", Lat = 31.2304, Lon = 121.4737 },
-            new Citta { Nome = "Dubai", Lat = 25.2048, Lon = 55.2708 },
-            new Citta { Nome = "Roma", Lat = 41.9028, Lon = 12.4964 },
-            new Citta { Nome = "Milano", Lat = 45.4642, Lon = 9.1900 },
-            new Citta { Nome = "Berlino", Lat = 52.5200, Lon = 13.4050 },
-            new Citta { Nome = "Madrid", Lat = 40.4168, Lon = -3.7038 },
-            new Citta { Nome = "Mosca", Lat = 55.7558, Lon = 37.6173 },
-            new Citta { Nome = "Los Angeles", Lat = 34.0522, Lon = -118.2437 },
-            new Citta { Nome = "Chicago", Lat = 41.8781, Lon = -87.6298 },
-            new Citta { Nome = "Toronto", Lat = 43.6532, Lon = -79.3832 },
-            new Citta { Nome = "Sydney", Lat = -33.8688, Lon = 151.2093 },
-            new Citta { Nome = "Singapore", Lat = 1.3521, Lon = 103.8198 },
-            new Citta { Nome = "Hong Kong", Lat = 22.3193, Lon = 114.1694 },
-            new Citta { Nome = "Istanbul", Lat = 41.0082, Lon = 28.9784 },
-            new Citta { Nome = "San Paolo", Lat = -23.5505, Lon = -46.6333 },
-            new Citta { Nome = "Città del Messico", Lat = 19.4326, Lon = -99.1332 },
-            new Citta { Nome = "Mumbai", Lat = 19.0760, Lon = 72.8777 },
-            new Citta { Nome = "Delhi", Lat = 28.6139, Lon = 77.2090 },
-            new Citta { Nome = "Bangkok", Lat = 13.7563, Lon = 100.5018 },
-            new Citta { Nome = "Seoul", Lat = 37.5665, Lon = 126.9780 }
+            new Citta("New York", 40.7128, -74.0060),
+            new Citta("Londra", 51.5074, -0.1278),
+            new Citta("Parigi", 48.8566, 2.3522),
+            new Citta("Tokyo", 35.6895, 139.6917),
+            new Citta("Pechino", 39.9042, 116.4074),
+            new Citta("Shanghai", 31.2304, 121.4737),
+            new Citta("Dubai", 25.2048, 55.2708),
+            new Citta("Roma", 41.9028, 12.4964),
+            new Citta("Milano", 45.4642, 9.1900),
+            new Citta("Berlino", 52.5200, 13.4050),
+            new Citta("Madrid", 40.4168, -3.7038),
+            new Citta("Mosca", 55.7558, 37.6173),
+            new Citta("Los Angeles", 34.0522, -118.2437),
+            new Citta("Chicago", 41.8781, -87.6298),
+            new Citta("Toronto", 43.6532, -79.3832),
+            new Citta("Sydney", -33.8688, 151.2093),
+            new Citta("Singapore", 1.3521, 103.8198),
+            new Citta("Hong Kong", 22.3193, 114.1694),
+            new Citta("Istanbul", 41.0082, 28.9784),
+            new Citta("San Paolo", -23.5505, -46.6333),
+            new Citta("Città del Messico", 19.4326, -99.1332),
+            new Citta("Mumbai", 19.0760, 72.8777),
+            new Citta("Delhi", 28.6139, 77.2090),
+            new Citta("Bangkok", 13.7563, 100.5018),
+            new Citta("Seoul", 37.5665, 126.9780)
         };
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
 
         public async Task<DatiMeteo> GetMeteoData(Citta selectedcity)
         {
@@ -121,12 +117,12 @@ namespace Barin_DeStefano_Weather
 
         private void AggiornaGrafico(float[] datiRaw)
         {
-
+            
             // toglei eventuali punti vecchi 
             Chart_Temperature.Plot.Clear();
 
             // trasforma da float a double perché sennò non va
-            double[] valoriY = datiRaw.Select(v => (double)v).ToArray();
+            double[] valoriY = datiRaw.Select(v => (double)v ).ToArray();
 
             // "disegnamo " i punti e gli diamo determinato valori di spessore  
             var sig = Chart_Temperature.Plot.Add.Signal(valoriY);
@@ -168,16 +164,6 @@ namespace Barin_DeStefano_Weather
             Chart_AirQuality.Plot.YLabel("Indice AQI");
 
             Chart_AirQuality.Refresh();
-        }
-
-        private void lbl_Temperature_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lbl_City_Click(object sender, EventArgs e)
-        {
-
         }
 
         

@@ -17,8 +17,8 @@ namespace Barin_DeStefano_Weather
 
     public class DatiMeteo
     {
-        public string NomeCitta { get; set; }
-        public float Temperatura { get; set; }
+        public string NomeCitta { get; set; }//xx
+        public float Temperatura { get; set; }//xx
         public float Umidita { get; set; }
         public float Pressione { get; set; }
         public float? PM25 { get; set; }
