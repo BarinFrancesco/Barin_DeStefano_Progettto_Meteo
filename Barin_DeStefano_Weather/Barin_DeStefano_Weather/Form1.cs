@@ -11,6 +11,7 @@ using System.Net.Http.Headers;
 using System.Text.Json;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace Barin_DeStefano_Weather
 {
@@ -21,11 +22,10 @@ namespace Barin_DeStefano_Weather
             InitializeComponent();
             CityList.DisplayMember = "Nome";//campo da mostrare
             CityList.DataSource = ListaCittà;
-            progressBarTemp.Minimum = 0;
-            progressBarTemp.Maximum = 45;
-            Chart_Temperature.Height = 150;
-            Chart_AirQuality.Height = 150;
+            //Chart_Temperature.Height = 200;
+            //Chart_Temperature.Width = 320;
             Refreshpage(ListaCittà[0]);
+
         }
 
         List<Citta> ListaCittà = new List<Citta>
@@ -110,9 +110,10 @@ namespace Barin_DeStefano_Weather
         {
             DatiMeteo dati = await GetMeteoData(selectedcity);
 
-            progressBarTemp.Value = (int)dati.Temperatura;
+            AggiornaBarra((int)dati.Temperatura);
             lbl_City.Text = dati.NomeCitta;
             lbl_Temperature.Text = $"{(float)Math.Round(dati.Temperatura, 1)} °C";
+
         }
 
         private void AggiornaGrafico(float[] datiRaw)
@@ -136,36 +137,63 @@ namespace Barin_DeStefano_Weather
             // scriviamo cosa è
             Chart_Temperature.Plot.Title("Andamento Temperatura");
             Chart_Temperature.Plot.XLabel("Ore");
-            Chart_Temperature.Plot.YLabel("Temp(°C)");
+            Chart_Temperature.Plot.YLabel("Temp(°C) / AQI ");
 
             // rinfreschiamo il grafico
             Chart_Temperature.Refresh();
         }
 
-        private void AggiornaGraficoAria(int?[] datiRaw)
+        private void AggiornaGraficoAria(int?[] datiRaw) //Chart_AirQuality
         {
             //il regionamento è lo stesso di prima ma aggiungiamo il controllo nel caso fosse null
-            Chart_AirQuality.Plot.Clear();
 
             double[] valoriY = datiRaw.Select(v => v.HasValue ? (double)v.Value : 0.0).ToArray();//conversione da int a double se null assegna 0
 
             // Aggiunge il segnale con un altro colore 
-            var sig = Chart_AirQuality.Plot.Add.Signal(valoriY);
+            var sig = Chart_Temperature.Plot.Add.Signal(valoriY);
             sig.Color = ScottPlot.Color.FromHex("#2ECC71"); 
             sig.LineWidth = 2;
             sig.MarkerSize = 5;
 
             // Imposta i limiti degli assi
-            Chart_AirQuality.Plot.Axes.SetLimits(0, valoriY.Length, 0, 100);
+            double maxY = valoriY.Max() + 5;
+            Chart_Temperature.Plot.Axes.SetLimits(0, valoriY.Length, 0, maxY);
 
             // tipi di valori
-            Chart_AirQuality.Plot.Title("Qualità dell'Aria (AQI)");
-            Chart_AirQuality.Plot.XLabel("Ore");
-            Chart_AirQuality.Plot.YLabel("Indice AQI");
+            
 
-            Chart_AirQuality.Refresh();
+            Chart_Temperature.Refresh();
         }
 
-        
+        public void AggiornaBarra(int temperatura)
+        {
+            termometerbar.Location = new Point(58, 10);
+
+            if (temperatura >= 0)
+            {
+                termometerbar.Size = new Size((int)(temperatura * 4.1), 20);
+            } else
+            {
+                termometerbar.Size = new Size((int)(temperatura * -4.1) + 4, 20) ;
+
+
+                termometerbar.Location = new Point(62 - termometerbar.Width, 10);
+            }
+
+
+            if (temperatura < 15)
+            {
+                termometerbar.BackColor = System.Drawing.Color.LightBlue;
+            }
+            else if (temperatura >= 15 && temperatura < 27)
+            {
+                termometerbar.BackColor = System.Drawing.Color.Green;
+            }
+            else
+            {
+                termometerbar.BackColor = System.Drawing.Color.Orange;
+            }
+        }
+
     }
 }
